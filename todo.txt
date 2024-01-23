@@ -1,0 +1,10 @@
+clean
+shower
+cook
+play the piano
+watch TV
+ Write a Book
+exit
+Make Soup
+
+Write poem
